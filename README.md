@@ -124,3 +124,10 @@ streamlit run app.py
 - PyMongo  
 - Other dependencies as listed in `requirements.txt`  
 
+---
+
+## **Team Members**
+
+- Rashi Solanki  (rashimah@usc.edu)
+- Ameya Bhalgat  (abhalgat@usc.edu)
+- Mayuresh Mohnalkar  (mohnalka@usc.edu)
